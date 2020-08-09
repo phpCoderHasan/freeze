@@ -35,7 +35,9 @@ a{
 .menuItem a:hover{
     color: red;
 }
-
+.sectioncategory{
+    background: #ebe7e8;
+}
 .section2{
     display: flex;
     justify-content: space-between;
